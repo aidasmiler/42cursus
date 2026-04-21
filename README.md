@@ -1,5 +1,5 @@
 <h1 align="center"> 4️⃣2️⃣ Cursus </h1>
-The 42 cursus is divided into two parts, the Common Core is the mandatory one, and then there's Outer Core, where we can choose different projects to learn other technologies.
+The 42 cursus is divided into two parts, the Common Core is the mandatory one, and then there's Outer Core, where we can choose different projects to learn other technologies. I have successfully completed the Common Core and currently exploring what to do next.
 <!-- [![airodrig's 42 stats](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/stats?cursusId=21&coalitionId=65)](https://github.com/JaeSeoKim/badge42) -->
 <!--- https://badge42.vercel.app/ --->
 <h2 align="center"> ⭕Common Core⭕ </h2>
@@ -38,6 +38,14 @@ Score: 115/100
 Scores are detailed in the repository
 ### ⌨ Exam Rank 05
 Score: 100/100
+### 🗃️ Webserv: Minimalist HTTP server in C++
+Score: 110/100
+### 🗄️ Inception: System Administration using Docker
+Score: 100/100
+### 🌐 ft_transcendence: Full Stack development to create a webpage from scratch
+Score: 118/100
+
+
 <!-- [📚 Libft: my own function library](https://github.com/aidasmiler/libft) -->
 <!--
 ### 📚 Libft: my own function library     [![airodrig's 42 Libft Score](https://badge42.vercel.app/api/v2/cl23m2r4f001609mrms9mi4uc/project/2336666)](https://github.com/JaeSeoKim/badge42)
